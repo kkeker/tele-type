@@ -24,8 +24,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/TeleType.git
-   cd TeleType
+   git clone https://github.com/kkeker/tele-type.git
+   cd tele-type
    ```
 
 2. Install the required Go packages:
